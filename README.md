@@ -54,4 +54,3 @@ Online Retail Dataset — transactional data from a UK-based online retailer, co
 
 ## Author
 **Diya Lohana**  
-[GitHub](https://github.com/Diya-Lohana) | [LinkedIn](https://linkedin.com/in/diya-lohana/)
